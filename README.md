@@ -1,4 +1,4 @@
-# Getting Started with SQL Conclusion
+# SQL Conclusion
 
 We've learned all about the basics of SQL. With SQL, we can store and find our
 stored data. SQL has many variations, but in this module, we specifically
